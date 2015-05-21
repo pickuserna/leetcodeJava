@@ -1,0 +1,15 @@
+[1989]Lomas T, Gong L, Saltzer J, et al. Reducing risks from poorly chosen keys[C]//ACM SIGOPS Operating Systems Review. ACM, 1989, 23(5): 14-18.
+[14]Bellovin, S.M.,Merritt, Michael.Encrypted key exchange: password-based protocols secure against dictionary attacks.
+Research in Security and Privacy, 1992. Proceedings., 1992 IEEE Computer Society Symposium
+[16]Steven M. Bellovin , Michael Merritt, Augmented encrypted key exchange: a password-based protocol secure against dictionary attacks and password file compromise, Proceedings of the 1st ACM conference on Computer and communications security, p.244-250, November 03-05, 1993, Fairfax, Virginia, USA  [doi>10.1145/168588.168618]
+[19]Jablon D P. Strong password-only authenticated key exchange[J]. ACM SIGCOMM Computer Communication Review, 1996, 26(5): 5-26.
+[20]Jablon D P. Extended password key exchange protocols immune to dictionary attack[C]//Enabling Technologies: Infrastructure for Collaborative Enterprises, 1997. Proceedings., Sixth IEEE Workshops on. IEEE, 1997: 248-255.
+[22]Wu T D. The Secure Remote Password Protocol[C]//NDSS. 1998, 98: 97-111.
+[23]Goldwasser S, Micali S, Rackoff C. The knowledge complexity of interactive proof-systems[C]//Proceedings of the seventeenth annual ACM symposium on Theory of computing. ACM, 1985: 291-304.
+[24]S. Goldwasser, S. Micali, C. Rackoff; The knowledge complexity of interactive proof systems. SIAM J. Comput., 18 (1) (1989), pp. 186–208
+[26]Wu T. Srp-6: Improvements and refinements to the secure remote password protocol[J]. Submission to IEEE P, 2002, 1363.
+
+
+[1]Yang Y, Zhou J, Weng J, et al. A new approach for anonymous password authentication[C]//Computer Security Applications Conference, 2009. ACSAC'09. Annual. IEEE, 2009: 199-208.
+[2]Yang Y, Zhou J, Wong J W, et al. Towards practical anonymous password authentication[C]//Proceedings of the 26th Annual Computer Security Applications Conference. ACM, 2010: 59-68.
+[3]Qian H, Gong J, Zhou Y. Anonymous password‐based key exchange with low resources consumption and better user‐friendliness[J]. Security and Communication Networks, 2012, 5(12): 1379-1393.
